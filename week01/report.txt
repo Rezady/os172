@@ -1,0 +1,4 @@
+kegunaan dari fungsi "cd" yaitu mengganti suatu direktori
+kegunaan dari "mv" yaitu memindahkan suatu file ke direktori lain
+kegunaan dari rm -f yaitu menghapus suatu file
+kegunaan dari "mkdir" yaitu membuat suatu direktori baru
