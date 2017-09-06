@@ -20,3 +20,4 @@ drwxr-xr-x  2 rezady.yan StafCS 4096 Sep  6 00:16 week09
 drwxr-xr-x  2 rezady.yan StafCS 4096 Sep  6 00:16 week10
 drwxr-xr-x  2 rezady.yan StafCS 4096 Sep  6 00:17 xtra
 /home/fasilkom/mahasiswa/r/rezady.yan/os172/week01
+Today is 06 Sep 2017 at 13:54:25
